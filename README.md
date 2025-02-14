@@ -94,6 +94,5 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 
-- 🔗 **GitHub**: [YourGitHubProfile](https://github.com/yourprofile)
-- 📧 **Email**: [your.email@example.com](mailto\:your.email@example.com)
+- 🔗 **GitHub**: [YourGitHubProfile](https://github.com/Ritinikhil/)
 
