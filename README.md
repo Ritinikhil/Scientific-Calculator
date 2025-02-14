@@ -1,73 +1,99 @@
-# Scientific-Calculator
-This scientific calculator is built using Python and PyQt6, offering a sleek dark-themed graphical user interface (GUI). It supports basic arithmetic operations, trigonometric functions, logarithmic calculations, factorials, and memory storage operations.
-📟 Scientific Calculator (PyQt6)
+# 📟 Scientific Calculator (PyQt6)
 
-A modern, dark-themed Scientific Calculator built using Python and PyQt6, supporting basic arithmetic, trigonometry, logarithms, exponentiation, and memory functions.
+A **modern, dark-themed** Scientific Calculator built using **Python and PyQt6**, supporting **basic arithmetic, trigonometry, logarithms, exponentiation, and memory functions**.
 
-🚀 Features
 
-🔢 Basic Operations
 
-✔ Addition (+), Subtraction (-), Multiplication (×), Division (÷)
+---
 
-✔ Percentage (%) calculations
+## 🚀 Features
 
-✔ Reciprocal (1/x), Negation (±), Parentheses ()
+### 🔢 Basic Operations
 
-📐 Scientific Functions
+- ✔ **Addition (+), Subtraction (-), Multiplication (×), Division (÷)**
+- ✔ **Percentage (%) calculations**
+- ✔ **Reciprocal (1/x), Negation (±), Parentheses ()**
 
-✔ Trigonometry: sin(), cos(), tan(), asin(), acos(), atan()
+### 📐 Scientific Functions
 
-✔ Hyperbolic Functions: sinh(), cosh(), tanh()
+- ✔ **Trigonometry**: `sin()`, `cos()`, `tan()`, `asin()`, `acos()`, `atan()`
+- ✔ **Hyperbolic Functions**: `sinh()`, `cosh()`, `tanh()`
+- ✔ **Logarithmic**: `log(x)` (Base 10), `ln(x)` (Natural log)
+- ✔ **Exponentiation**: `e^x`, `x²`, `x³`, `x^y`
+- ✔ **Square Root (√x), Absolute Value (|x|)**
+- ✔ **Factorial (n!)**
 
-✔ Logarithmic: log(x) (Base 10), ln(x) (Natural log)
+### 🎯 Memory & History
 
-✔ Exponentiation: e^x, x², x³, x^y
+- ✔ **Memory Operations**: `MC`, `MR`, `M+`, `M-`, `MS`
+- ✔ **Calculation History** with the last 3 entries
+- ✔ **Angle Mode**: Switch between **Degrees & Radians**
+- ✔ **Smart Input Handling & Error Prevention**
 
-✔ Square Root (√x), Absolute Value (|x|)
+### ⌨️ Keyboard Shortcuts
 
-✔ Factorial (n!)
+- **Numbers & Operators**: Type directly on the keyboard
+- **Enter/Return**: Evaluate the expression
+- **Esc**: Clear the display
+- **Backspace**: Delete the last character
 
-🎯 Memory & History
+---
 
-✔ Memory Operations: MC, MR, M+, M-, MS
+## 📥 Installation
 
-✔ Calculation History with the last 3 entries
+### 🔧 Prerequisites
 
-✔ Angle Mode: Switch between Degrees & Radians
+Ensure you have **Python 3.8+** installed.
 
-✔ Smart Input Handling & Error Prevention
+### 📦 Install Dependencies
 
-⌨️ Keyboard Shortcuts
-
-Numbers & Operators: Type directly on the keyboard
-
-Enter/Return: Evaluate the expression
-
-Esc: Clear the display
-
-Backspace: Delete the last character
-📥 Installation
-
-🔧 Prerequisites
-
-Ensure you have Python 3.8+ installed.
-
-📦 Install Dependencies
-
+```sh
 pip install PyQt6
+```
 
-▶️ Run the Application
-python main.py
+### ▶️ Run the Application
 
-🛠️ Usage
+```sh
+python scientific_calculator.py
+```
 
-Start the application and enter expressions using buttons or the keyboard.
+---
 
-Use memory functions to store and recall values.
+---
 
-Switch between DEG/RAD for trigonometric calculations.
+## 📸 Screenshots
 
-View previous calculations in the history display.
 
-Press = to evaluate the expression.
+
+---
+
+## 💡 Future Enhancements
+
+- ✅ **Graph Plotting Feature** 📈
+- ✅ **Complex Number Support** 🔢
+- ✅ **User-defined Variables** 📌
+- ✅ **Customizable Themes** 🎨
+
+---
+
+## 👨‍💻 Contributing
+
+1. **Fork** this repository
+2. **Create a new branch** (`feature/new-feature`)
+3. **Commit changes** (`git commit -m 'Add new feature'`)
+4. **Push the branch** (`git push origin feature/new-feature`)
+5. **Submit a Pull Request** 🚀
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 📬 Contact
+
+- 🔗 **GitHub**: [YourGitHubProfile](https://github.com/yourprofile)
+- 📧 **Email**: [your.email@example.com](mailto\:your.email@example.com)
+
