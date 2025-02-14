@@ -64,6 +64,7 @@ python scientific_calculator.py
 ## 📸 Screenshots
 
 
+![Screenshot (335)](https://github.com/user-attachments/assets/894de2b3-26a5-433f-951f-a42545a2c96d)
 
 ---
 
